@@ -1,0 +1,14 @@
+.heading{
+    background-color: red;
+}
+
+.button-1{
+    background-color: GREEN;
+
+}
+.heading-1{
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
